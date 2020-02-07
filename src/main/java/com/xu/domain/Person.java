@@ -3,6 +3,7 @@ package com.xu.domain;
 import java.util.Date;
 
 public class Person {
+    // id	
     private int id;
     private String name;
 
