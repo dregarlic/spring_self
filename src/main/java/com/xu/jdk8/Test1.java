@@ -24,6 +24,5 @@ public class Test1 {
         System.out.println("-------------------");
         // method reference
         list.forEach(System.out::println);
-
     }
 }

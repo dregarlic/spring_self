@@ -38,6 +38,13 @@ public class Calculate {
                         break;
                 }
             };
+
+//            CalculateInterface c = new CalculateInterface() {
+//                @Override
+//                public void calculate(String type, int a, int b) {
+//
+//                }
+//            };
             calculate(calculateInterface, type, num1, num2);
             System.out.println("---------*************************----------");
         }
